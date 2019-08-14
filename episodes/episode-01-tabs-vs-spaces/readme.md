@@ -2,7 +2,9 @@
 
 ## Episode 01: Tabs vs Spaces
 
-https://www.youtube.com/watch?v=qYPupvFUpf8
+> https://www.youtube.com/watch?v=qYPupvFUpf8
+
+![https://www.youtube.com/watch?v=qYPupvFUpf8](./breaking-the-build-episode-01.png)
 
 * [Episode 01: Tabs vs Spaces](#episode-01-tabs-vs-spaces)
 * [📝 Description](#-description)

@@ -4,6 +4,8 @@
 
 This show premiered on August 14, 2019 and is hosted by [Brenton House](https://brenton.house).
 
+![Breaking the Build](./images/breaking-the-build.png)
+
 * [🎬 Episodes](#-episodes)
 * [▶️ Axway Developer YouTube Channel](#️-axway-developer-youtube-channel)
 * [👏 Credits](#-credits)
