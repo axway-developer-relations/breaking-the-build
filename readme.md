@@ -17,6 +17,7 @@ This show premiered on August 14, 2019 and is hosted by [Brenton House](https://
 * [Episode 01:  Tabs vs Spaces](./episodes/episode-01-tabs-vs-spaces/readme.md)
 * [Episode 02:  Surviving the Crash](./episodes/episode-02-surviving-the-crash/readme.md)
 * [Episode 03:  Apple 2019 Special Event](./episodes/episode-03-apple-2019-event/readme.md)
+* [Episode 04:  Installing and Managing Node.js and npm](./episodes/episode-04-nodejs-and-npm/readme.md)
 
 
 ## ▶️ Axway Developer YouTube Channel
